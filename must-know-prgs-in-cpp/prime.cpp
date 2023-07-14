@@ -18,4 +18,5 @@ int main()
           std::cout << "Number is Prime."<<std::endl;
       return 0;
     }
-     
+
+
