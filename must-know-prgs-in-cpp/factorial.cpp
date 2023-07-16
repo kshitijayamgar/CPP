@@ -10,4 +10,5 @@
       }    
       std::cout<<"Factorial of " <<number<<" is: "<<fact<<std::endl;  
       return 0;  
-    }  
+    } 
+
