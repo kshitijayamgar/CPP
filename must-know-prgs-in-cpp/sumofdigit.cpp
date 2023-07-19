@@ -1,8 +1,6 @@
 #include<iostream>
 int main(){
-
-
-	int n,m;
+        int n,m;
 	int sum=0;
 	std::cout<<"enter the number:"<<std::endl;
 	std::cin>>n;
