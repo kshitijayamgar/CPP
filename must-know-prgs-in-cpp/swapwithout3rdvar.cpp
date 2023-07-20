@@ -1,6 +1,5 @@
-    #include <iostream>  
-      
-    int main()  
+#include <iostream>  
+ int main()  
     {  
     int a, b;
     std::cout<<"enter 1st num:"<<std::endl;
