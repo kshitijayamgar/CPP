@@ -15,3 +15,11 @@ int main(){
         }
     return 0;
     }
+/* o/p:-
+
+     A
+    ABA
+   ABCBA
+  ABCDCBA
+ ABCDEDCBA
+ */
