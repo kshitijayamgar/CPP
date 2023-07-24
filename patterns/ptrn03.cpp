@@ -1,5 +1,4 @@
 #include <iostream>
-
 int main() {
   // size of the triangle
   int size = 5;
