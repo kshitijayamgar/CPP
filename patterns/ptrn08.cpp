@@ -15,6 +15,7 @@ int main(){
         }
     return 0;
     }
+
 /* o/p:-
 
      A
