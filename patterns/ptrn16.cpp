@@ -1,10 +1,7 @@
-// C++ code to demonstrate printing
-// pattern of numbers
 #include <iostream>
 using namespace std;
 
-// Function to demonstrate printing
-// pattern
+// Function to demonstrate printing pattern
 void numpat(int n)
 {
 	// initializing starting number
