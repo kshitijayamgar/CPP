@@ -1,4 +1,4 @@
-// Factorial of n = 1*2*3*...*n
+// Finding Factorial of n = 1*2*3*...*n using recursion
 #include <iostream>
 using namespace std;
 
