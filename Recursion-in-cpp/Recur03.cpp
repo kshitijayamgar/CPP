@@ -1,5 +1,4 @@
 #include <iostream>
-
 // Recursive function to calculate the sum of array elements
 int arraySum(int arr[], int size) {
   // Base case: if the array is empty, return 0
