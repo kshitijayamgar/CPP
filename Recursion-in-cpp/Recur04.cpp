@@ -1,5 +1,4 @@
 #include <iostream>
-
 // Recursive function to calculate the factorial
 int factorial(int n) {
   // Factorial of 0 or 1 is 1
