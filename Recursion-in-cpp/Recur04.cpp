@@ -15,7 +15,7 @@ int main() {
   std::cout << "Input a number: ";
   std::cin >> num;
 
-  // Calculate the factorial using recursion
+ // Calculate the factorial using recursion
   int fact = factorial(num);
 
   std::cout << "Factorial of " << num << " is: " << fact << std::endl;
