@@ -1,6 +1,5 @@
 // Recursive function to calculate the nth Fibonacci number
 #include <iostream>
-
 int fibonacci(int n) {
   // Initial: Fibonacci of 0 is 0, Fibonacci of 1 is 1
   if (n == 0)
