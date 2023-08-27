@@ -10,7 +10,6 @@ int fibonacci(int n) {
   // Recursive case: Fibonacci of n is the sum of the previous two Fibonacci numbers
   return fibonacci(n - 1) + fibonacci(n - 2);
 }
-
 int main() {
   int n;
   std::cout << "Input a number: ";
