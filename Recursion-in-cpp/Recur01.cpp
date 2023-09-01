@@ -33,7 +33,6 @@ void printPatternRecur(int n)
         printPatternRecur(n-1);
 
 }
-
 // Driver program to test above
 int main()
 {
