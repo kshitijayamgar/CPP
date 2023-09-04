@@ -1,6 +1,5 @@
 // Recursive function to find the maximum  and minimum elements in an array
 #include <iostream>
-
 int findMax(int nums[], int start, int end) {
   // Base case: when there is only one element, it is the maximum
   if (start == end)
